@@ -7,7 +7,7 @@ Swoft Database Component
 Install by [Composer](https://getcomposer.org)  
 
 ```bash
-composer require swoft/db
+composer require qiaofengzi/db
 ```
 
 ## Require
